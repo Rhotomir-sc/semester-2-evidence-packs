@@ -6,16 +6,19 @@
 
 This repository is my **HR-friendly** evidence pack for **SUBÜ Cybersecurity (Associate Degree)** — **2nd semester**.
 
-## Courses (ECTS = 30)
-| Code | Course | ECTS | Folder |
-|---|---|---:|---|
-| BGT205 | Siber Saldırı ve Savunma Yöntemleri | 5 | `courses/BGT205_cyber-attack-and-defense-methods` |
-| BGT206 | Güvenlik Duvarı Çözümleri Uygulama ve Yönetimi | 4 | `courses/BGT206_firewall-solutions-implementation-and-management` |
-| BGT207 | Ağ Sistemleri ve Yönlendirme | 4 | `courses/BGT207_network-systems-and-routing` |
-| BGT212 | Python Programlama | 4 | `courses/BGT212_python-programming` |
-| DDO206 | Programlama II | 5 | `courses/DDO206_programming-ii` |
-| DDO208 | Veritabanı Yönetim Sistemleri | 5 | `courses/DDO208_database-management-systems` |
-| ESD205 | Bilişimde Yeni Teknolojiler | 3 | `courses/ESD205_emerging-technologies-in-it` |
+## Courses
+*Total workload: 30 ECTS*
+
+| Course | Folder |
+|---|---|
+| Siber Saldırı ve Savunma Yöntemleri | `courses/BGT205_cyber-attack-and-defense-methods` |
+| Güvenlik Duvarı Çözümleri Uygulama ve Yönetimi | `courses/BGT206_firewall-solutions-implementation-and-management` |
+| Ağ Sistemleri ve Yönlendirme | `courses/BGT207_network-systems-and-routing` |
+| Python Programlama | `courses/BGT212_python-programming` |
+| Programlama II | `courses/DDO206_programming-ii` |
+| Veritabanı Yönetim Sistemleri | `courses/DDO208_database-management-systems` |
+| Bilişimde Yeni Teknolojiler | `courses/ESD205_emerging-technologies-in-it` |
+
 
 ## Repo map
 - `courses/` → each course has **weekly logs** + a **course mini-lab**
