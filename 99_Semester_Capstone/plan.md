@@ -1,4 +1,4 @@
-# Plan — Semester 2 Capstone (Skeleton)
+# Plan — Semester 2 Capstone
 
 ## Scope
 - Link every Semester 2 course evidence pack from a single page.
