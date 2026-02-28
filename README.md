@@ -4,6 +4,11 @@
 
 # Evidence Packs — Semester 2 (Spring 2025–2026)
 
+## ⭐ Capstone (Start here)
+➡️ [Open Semester 2 Capstone](./99_Semester_Capstone/)
+
+**Structure:** plan → steps → report → evidence (screenshots/artifacts)
+
 ## Courses
 - [01 — Siber Saldırı ve Savunma Yöntemleri (BGT205)](01_Siber_Saldiri_ve_Savunma_Yontemleri)
 - [02 — Güvenlik Duvarı Çözümleri Uygulama ve Yönetimi (BGT206)](02_Guvenlik_Duvari_Cozumleri_Uygulama_ve_Yonetimi)
