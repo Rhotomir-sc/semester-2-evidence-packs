@@ -1,4 +1,4 @@
-# Steps — Semester 2 Capstone (Skeleton)
+# Steps — Semester 2 Capstone
 
 1) Open Top 3 evidence packs and verify their `report.md` + screenshots.
 2) Review remaining course packs for consistency (same structure).
