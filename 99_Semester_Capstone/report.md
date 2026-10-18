@@ -1,10 +1,13 @@
-# Report — Semester 2 Capstone
+# Capstone report — not executed
 
 ## Summary
-- (TBD) I packaged Semester 2 work into evidence-based mini deliverables per course.
+Pending completed course evidence.
 
-## Strongest evidence
-- (TBD) Top 3 packs + why they matter
+## Evidence index
+No completed packs selected yet.
 
-## Result
-- (TBD) A compact, reviewable portfolio showing structured security reasoning and reproducible evidence.
+## Findings and verification
+Pending execution.
+
+## Limitations
+This file is a report scaffold, not evidence of a completed investigation.

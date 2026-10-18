@@ -1,26 +1,17 @@
-# Semester 2 Capstone — Mini SOC Investigation Pack (Skeleton)
+# Semester 2 capstone — planned
 
-## Goal
-Provide a single HR-friendly entry point that links all Semester 2 evidence packs.
+No completed semester investigation is claimed yet.
 
-## What this will contain
-- Top 3 evidence links (strongest packs)
-- A short “mini SOC scenario” (signal → triage → evidence → result)
-- Evidence index (screenshots/artifacts)
+Build this case from completed course packs:
+1. Select an authentication finding with a timestamped timeline.
+2. Add network and firewall context supported by actual configuration evidence.
+3. Use the Python or database project to reproduce part of the analysis.
+4. Explain the response decision, verification results, and limitations.
 
-## Start here (Top 3 Evidence)
-1) (TBD) `../01_Siber_Saldiri_ve_Savunma_Yontemleri/`
-2) (TBD) `../02_Guvenlik_Duvari_Cozumleri_Uygulama_ve_Yonetimi/`
-3) (TBD) `../03_Ag_Sistemleri_ve_Yonlendirme/`
+## Completion gate
+- At least three completed course packs linked by evidence.
+- One coherent scenario with assumptions labeled.
+- Reproducible analysis and an allowed/denied control test where relevant.
+- A concise conclusion that follows from the collected evidence.
 
-**Bonus**
-- `../04_Python_Programlama/`
-- `../05_Programlama_II/`
-- `../06_Veritabani_Yonetim_Sistemleri/`
-- `../07_Bilisimde_Yeni_Teknolojiler/`
-
-## Pack structure
-- `plan.md` — scope & success criteria
-- `steps.md` — how to reproduce evidence quickly
-- `report.md` — executive summary for HR
-- `evidence/` — screenshots + artifacts
+[Course plans](../README.md) · [Plan](plan.md) · [Procedure](steps.md) · [Report](report.md)

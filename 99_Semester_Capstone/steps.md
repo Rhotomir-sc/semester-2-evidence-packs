@@ -1,7 +1,7 @@
-# Steps — Semester 2 Capstone
+# Capstone procedure
 
-1) Open Top 3 evidence packs and verify their `report.md` + screenshots.
-2) Review remaining course packs for consistency (same structure).
-3) Confirm naming consistency (`lab01_*`, `week_*`, etc. where applicable).
-4) Update capstone README Top 3 picks when evidence is added.
-5) Keep the capstone as the single “start here” entry point.
+1. Complete and review the contributing course packs.
+2. Link their evidence to a single clearly labeled scenario.
+3. Reproduce the analysis.
+4. Document findings, response options, actual verification, and limitations.
+5. Complete the report; keep unsupported conclusions out.
